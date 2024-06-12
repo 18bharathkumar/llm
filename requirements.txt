@@ -1,0 +1,9 @@
+PyPDF2
+langchain.text_splitter
+langchain_google_genai
+langchain_google_genai
+langchain.vectorstores
+langchain_google_genai
+langchain.chains.question_answering
+langchain.prompts
+python-dotenv
